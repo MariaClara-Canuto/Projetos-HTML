@@ -1,5 +1,5 @@
 # Projetos-HTML
-Neste repositório terá projetos da faculdade feitos usando a linguagem de HTML juntamente com CSS. Os projetos estão disponivéis nos seus respectivos brenches.
+Neste repositório terá antigos projetos da faculdade feitos usando a linguagem de HTML com CSS. Os projetos estão disponivéis nos seus respectivos brenches.
 
 <ul>
   <li><a href="https://github.com/MariaClara-Canuto/Projetos-HTML/tree/Sistema-Solar">Sistema Solar</a>
