@@ -1,5 +1,5 @@
 # Projetos-HTML
-Neste repositório terá antigos projetos da faculdade feitos usando a linguagem de HTML com CSS. Os projetos estão disponivéis nos seus respectivos brenches.
+Neste repositório terá antigos projetos acadêmicos feitos usando a linguagem de HTML e CSS. Os projetos estão disponivéis nos seus respectivos brenches.
 
 <ul>
   <li><a href="https://github.com/MariaClara-Canuto/Projetos-HTML/tree/Sistema-Solar">Sistema Solar</a>
@@ -7,7 +7,7 @@ Neste repositório terá antigos projetos da faculdade feitos usando a linguagem
 <ul>
 
 <h2>Sistema Solar</h2>
-<p>O brench contém um pequeno projeto que o meu professor passou em sala. O objetivo era criar um sistema solar interativo que quando o usuário clicasse em um planeta, ele seria direcionado para outra página.</p>
+<p>O brench contém um pequeno projeto passado em sala. O objetivo era criar um sistema solar interativo que quando o usuário clicasse em um planeta, ele seria direcionado para outra página com mais informações.</p>
   
-<h2>Projeto 3 - Dia Mundial Da Energia</h2>
-<p>O brench contém um projeto valendo nota. O objetivo era criar um website navegável com a temática do Dia Mundial da Energia.</p>
+<h2>Dia Mundial Da Energia</h2>
+<p>O brench contém um projeto que valia nota. O objetivo era criar um website navegável com a temática do Dia Mundial da Energia.</p>
